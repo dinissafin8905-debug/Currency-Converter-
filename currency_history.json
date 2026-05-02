@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-05-02 19:50:52",
+    "amount": 440000.0,
+    "from_curr": "ANG",
+    "to_curr": "EUR",
+    "result": 209660.0,
+    "rate": 0.4765
+  },
+  {
+    "date": "2026-05-02 19:50:16",
+    "amount": 100.0,
+    "from_curr": "PKR",
+    "to_curr": "EUR",
+    "result": 0.31,
+    "rate": 0.0031
+  },
+  {
+    "date": "2026-05-02 19:50:08",
+    "amount": 100.0,
+    "from_curr": "RUB",
+    "to_curr": "EUR",
+    "result": 1.14,
+    "rate": 0.0114
+  },
+  {
+    "date": "2026-05-02 19:49:59",
+    "amount": 2345.0,
+    "from_curr": "RUB",
+    "to_curr": "EUR",
+    "result": 26.66,
+    "rate": 0.0114
+  }
+]
